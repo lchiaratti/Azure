@@ -1,0 +1,57 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualNetworks_DEV_name": {
+            "value": null
+        },
+        "virtualMachines_WebDev_name": {
+            "value": null
+        },
+        "loadBalancers_lb_dbdev_name": {
+            "value": null
+        },
+        "loadBalancers_lb_webdev_name": {
+            "value": null
+        },
+        "publicIPAddresses_vpndev_name": {
+            "value": null
+        },
+        "routeTables_RouteSAPFilial_name": {
+            "value": null
+        },
+        "virtualMachines_DatabaseDEV_name": {
+            "value": null
+        },
+        "networkInterfaces_webdev114_name": {
+            "value": null
+        },
+        "publicIPAddresses_WebDev_ip_name": {
+            "value": null
+        },
+        "dnszones_sitechiaratti.com.br_name": {
+            "value": null
+        },
+        "virtualNetworkGateways_vngdev_name": {
+            "value": null
+        },
+        "networkInterfaces_databasedev20_name": {
+            "value": null
+        },
+        "localNetworkGateways_MercureLocal_name": {
+            "value": null
+        },
+        "publicIPAddresses_webdevloadbalance_name": {
+            "value": null
+        },
+        "networkSecurityGroups_BackEnd_NSG_DEV_name": {
+            "value": null
+        },
+        "networkSecurityGroups_FrontEnd_NSG_DEV_name": {
+            "value": null
+        },
+        "virtualNetworks_QA_externalid": {
+            "value": null
+        }
+    }
+}
